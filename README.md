@@ -2,6 +2,7 @@
 
 | Date | Learning |
 |------|----------|
+| 25-Jan | Read and understood about relational databases |
 | 24-Jan | 3 practice problem from DP |
 | 23-Jan | 2 practice problem from DP |
 | 22-Jan | Leant about cache in HLD |
