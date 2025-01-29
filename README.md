@@ -2,6 +2,7 @@
 
 | Date | Learning |
 |------|----------|
+| 29-Jan | BT 2 problems |
 | 28-Jan | Binary Tree - preorder, postorder, inorder iterative |
 | 27-Jan | Relational database notes revision, Binary Tree - preorder, postorder, inorder recursive |
 | 26-Jan | 1 DP Q, started Binary Tree |
