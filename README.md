@@ -2,6 +2,7 @@
 
 | Date | Learning |
 |------|----------|
+| 30-Jan | Started learning about non relational database |
 | 29-Jan | BT 2 problems |
 | 28-Jan | Binary Tree - preorder, postorder, inorder iterative |
 | 27-Jan | Relational database notes revision, Binary Tree - preorder, postorder, inorder recursive |
