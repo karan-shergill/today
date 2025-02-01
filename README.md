@@ -2,6 +2,8 @@
 
 | Date | Learning |
 |------|----------|
+| 01-Feb | 3 BT problems, 6 Heap problems, database scalling |
+| 31-Jan | 2 BT problems |
 | 30-Jan | Started learning about non relational database |
 | 29-Jan | BT 2 problems |
 | 28-Jan | Binary Tree - preorder, postorder, inorder iterative |
