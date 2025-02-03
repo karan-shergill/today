@@ -2,6 +2,8 @@
 
 | Date | Learning |
 |------|----------|
+| 03-Feb | 3 BT problem, 1 Heap problem, YT video on HLD of bookmyshow.com |
+| 02-Feb | 7 BT problem, 3 Heap problem, read and make notes on database scalling |
 | 01-Feb | 3 BT problems, 6 Heap problems, database scalling |
 | 31-Jan | 2 BT problems |
 | 30-Jan | Started learning about non relational database |
