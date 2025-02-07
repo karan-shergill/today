@@ -2,6 +2,7 @@
 
 | Date | Learning |
 |------|----------|
+| 07-Feb | Online Judge System Design |
 | 06-Feb | 1 BT, 1 Heap, read about how to prevent race condition in distributed arch |
 | 05-Feb | 1 BT problem, 1 Heap problem, HLD mock interview of bookmyshow.com |
 | 04-Feb | 2 BT problem, 2 Heap problem, HLD of bookmyshow.com|
