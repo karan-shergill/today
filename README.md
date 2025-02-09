@@ -2,6 +2,7 @@
 
 | Date | Learning |
 |------|----------|
+| 09-Feb | 3 BT Q, Uber design YT video |
 | 08-Feb | 3 BT Q, race condition notes, lock for single server & distributed server, mock hld - leetcode |
 | 07-Feb | Online Judge System Design |
 | 06-Feb | 1 BT, 1 Heap, read about how to prevent race condition in distributed arch |
