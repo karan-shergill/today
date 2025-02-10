@@ -2,6 +2,7 @@
 
 | Date | Learning |
 |------|----------|
+| 10-Feb | 2 BT Q, basic understanding of quadtree and hilbert curve |
 | 09-Feb | 3 BT Q, Uber design YT video |
 | 08-Feb | 3 BT Q, race condition notes, lock for single server & distributed server, mock hld - leetcode |
 | 07-Feb | Online Judge System Design |
