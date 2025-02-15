@@ -2,6 +2,10 @@
 
 | Date | Learning |
 |------|----------|
+| 15-Feb | Notes for redis, redis use-case|
+| 14-Feb | 2 BST Q, Authentication and Authorization works in web API - notes, API design|
+| 13-Feb | 2 BST Q, HLD mock Interview - Design Yelp|
+| 12-Feb | 2 BST Q, Design A Location Based Service - Yelp understanding & notes|
 | 11-Feb | 1 BT Q, Quadtree vs Geohash |
 | 10-Feb | 2 BT Q, basic understanding of quadtree and hilbert curve |
 | 09-Feb | 3 BT Q, Uber design YT video |
