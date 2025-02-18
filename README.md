@@ -2,6 +2,8 @@
 
 | Date | Learning |
 |------|----------|
+| 18-Feb | 6 BS Qs, Uber design understanding |
+| 17-Feb | `Overthinking day` |
 | 16-Feb | 3 BST Qs, notes for API |
 | 15-Feb | Notes for redis, redis use-case |
 | 14-Feb | 2 BST Q, Authentication and Authorization works in web API - notes, API design |
