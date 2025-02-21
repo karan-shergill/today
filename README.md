@@ -2,6 +2,9 @@
 
 | Date | Learning |
 |------|----------|
+| 21-Feb | Uber System Design Mock Interview |
+| 20-Feb | 3 BQ Qs |
+| 19-Feb | 5 BS Qs |
 | 18-Feb | 6 BS Qs, Uber design understanding |
 | 17-Feb | `Overthinking day` |
 | 16-Feb | 3 BST Qs, notes for API |
