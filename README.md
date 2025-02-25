@@ -2,6 +2,10 @@
 
 | Date | Learning |
 |------|----------|
+| 25-Feb | 1 BT Q |
+| 24-Feb | |
+| 23-Feb | |
+| 22-Feb | Tinder System Design YT video |
 | 21-Feb | Uber System Design Mock Interview |
 | 20-Feb | 3 BQ Qs |
 | 19-Feb | 5 BS Qs |
