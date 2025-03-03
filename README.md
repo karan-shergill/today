@@ -2,12 +2,19 @@
 
 | Date | Learning |
 |------|----------|
-| 25-Feb | 1 BT Q |
+| 04-Mar | |
+| 03-Mar | Binary Search notes, Approches in system design for WRITE heavy system |
+| 02-Mar | 4 BS Q|
+| 01-Mar | 5 BS Q |
+| 28-Feb | |
+| 27-Feb | |
+| 26-Feb | 2 BS Q |
+| 25-Feb | 1 BS Q |
 | 24-Feb | |
 | 23-Feb | |
 | 22-Feb | Tinder System Design YT video |
 | 21-Feb | Uber System Design Mock Interview |
-| 20-Feb | 3 BQ Qs |
+| 20-Feb | 3 BS Qs |
 | 19-Feb | 5 BS Qs |
 | 18-Feb | 6 BS Qs, Uber design understanding |
 | 17-Feb | `Overthinking day` |
