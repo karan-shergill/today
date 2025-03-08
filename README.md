@@ -2,6 +2,9 @@
 
 | Date | Learning |
 |------|----------|
+| 09-Mar | Linked List Qs |
+| 08-Mar | Linked List Qs |
+| 07-Mar | Linked List Qs |
 | 06-Mar | 3 Sliding Window Qs |
 | 05-Mar | 3 Sliding Window Qs |
 | 04-Mar | |
